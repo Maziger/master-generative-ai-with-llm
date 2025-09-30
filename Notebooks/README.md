@@ -18,6 +18,10 @@
 
 | DPO_example_smolV2 | <a href="https://colab.research.google.com/github/Maziger/master-generative-ai-with-llm/blob/main/Notebooks/DPO_example_smolV2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 
 
+| Mixtral_chatbot.ipynb | <a href="https://colab.research.google.com/github/Maziger/master-generative-ai-with-llm/blob/main/Notebooks/Mixtral_chatbot.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+| GRPO_fine_tuning_llm_grpo_trl.ipynb | <a href="https://colab.research.google.com/github/Maziger/master-generative-ai-with-llm/blob/main/Notebooks/GRPO_fine_tuning_llm_grpo_trl.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
 | Take_home_exam_assignments | <a href="https://colab.research.google.com/github/Maziger/master-generative-ai-with-llm/blob/main/Notebooks/Take_home_exam_assignments.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 
 
 
