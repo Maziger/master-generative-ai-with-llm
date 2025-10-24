@@ -22,6 +22,8 @@
 
 | GRPO_fine_tuning_llm_grpo_trl.ipynb | <a href="https://colab.research.google.com/github/Maziger/master-generative-ai-with-llm/blob/main/Notebooks/GRPO_fine_tuning_llm_grpo_trl.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
+| Optimizing_RAG_GAI_25.ipynb | <a href="https://colab.research.google.com/github/Maziger/master-generative-ai-with-llm/blob/main/Notebooks/optimizing_RAG_GAI_25.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
 | Take_home_exam_assignments | <a href="https://colab.research.google.com/github/Maziger/master-generative-ai-with-llm/blob/main/Notebooks/Take_home_exam_assignments.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 
 
 
